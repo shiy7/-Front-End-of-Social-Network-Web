@@ -1,3 +1,8 @@
+* Built a geo-based social network web application with React JS. 
+* Implemented basic token based registration/login/logout flow with React Router v4 and server-side user authentication with JWT. 
+* Implemented features such as "Create Post", "Nearby Posts As Gallery" and "Nearby Posts In Map" with Ant Design, GeoLocation API and Google Map API.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
